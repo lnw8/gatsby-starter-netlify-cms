@@ -8,8 +8,7 @@ featuredpost: true
 featuredimage: https://thewhitelabelagency.com/wp-content/uploads/2017/11/WordPress-Design-Guidelines-for-Digital-Agencies-1920x1080.jpg
 tags:
   - wordpressd
-  - wordpress-design-guidelines
-  - ""
+  - wordpressdesignguidelines
 ---
 <!--StartFragment-->
 
