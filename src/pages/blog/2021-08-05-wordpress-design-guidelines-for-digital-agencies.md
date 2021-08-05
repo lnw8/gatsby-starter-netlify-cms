@@ -230,6 +230,6 @@ This guide presented a collection of best practices that we’ve learned over th
 2. Stick to the column grid whenever you can on the designs
 3. Take full advantage of page templates and header styles to reuse them whenever possible. It saves your time, your developer’s time and makes the site look coherent with your client’s brand.
 
-If your agency could use some help to convert your custom designs into WordPress sites, [reach out to us](https://thewhitelabelagency.com/contact-us/) via our form or give us a call. That’s what we are in business for and welcome the chance to help your agency grow.
+If your agency could use some help to convert your custom designs into WordPress sites, reach out to us via our form or give us a call. That’s what we are in business for and welcome the chance to help your agency grow.
 
 <!--EndFragment-->
